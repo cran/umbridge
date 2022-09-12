@@ -1,0 +1,17 @@
+e90e7343bc903879c6a3c6c6ea98b906 *DESCRIPTION
+02981d238e63a34baa5b1fb8f8e6a6cb *LICENSE
+277a722bb9f762784ac6e3eb03224396 *NAMESPACE
+f8ed634b555656b4c6b83da8e34501f8 *R/umbridge.R
+ddb84d878e018b604d021520cbb63fc0 *man/apply_hessian.Rd
+3f68ff67bdc101e264a78af40b548d4c *man/apply_jacobian.Rd
+8bee1f745721de5a8f415234d9b2e9e4 *man/evaluate.Rd
+415a07c569f3ab37010a8bcb3a88586d *man/gradient.Rd
+4aca0ad0036881f01b2ff0de859a2c5b *man/model_input_sizes.Rd
+914c024310ce74711647008231baa371 *man/model_output_sizes.Rd
+9f9d76f562d203811f9cfa00cf457dd9 *man/protocol_version_supported.Rd
+74fa2f846a83a239f613071f89cf4238 *man/supports_apply_hessian.Rd
+ba70f72db6dac07f26d442b1d6c27ea9 *man/supports_apply_jacobian.Rd
+aeb9967e787e79e35eb592b0e3564344 *man/supports_evaluate.Rd
+a6c58f003fcec93c3a063ff778a726ae *man/supports_gradient.Rd
+0d83c1ddb7ed863f942a54c2597a34c4 *tests/testthat.R
+69055310d89ed97fde5e422b2bac9dad *tests/testthat/test-umbridge.R
